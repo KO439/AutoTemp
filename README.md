@@ -17,6 +17,8 @@ AutoTemp is a temperature monitoring system for automobiles. It allows real-time
 
 ![AutoTemp Installation](demo2.png)  
 *Photo of the system installed in a vehicle.*
+![AutoTemp History](demo4.png)  
+*Photo of the history.*
 
 ## Benefits  
 - Effective prevention of overheating-related failures.  
